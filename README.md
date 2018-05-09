@@ -1,4 +1,4 @@
-The general idea of this project was to classify leaves given their images along with numerical data about their features. I built classification models utilizing a convolutional neural network trained with images alone, a convolutional neural network trained with a combination of image data and numerical data, and a standard neural network using only numerical data. I also did a linear discriminant analysis on the numerical data for comparison.
+The idea of this project was to classify leaves given their images along with numerical data about their features. I built classification models utilizing a convolutional neural network trained with images alone, a convolutional neural network trained with a combination of image data and numerical data, and a standard neural network using only numerical data. I also did a linear discriminant analysis on the numerical data for comparison.
 
 Some required modules for visualizing this code: TensorFlow, Keras, Sci-kit learn,
     # matplotlib, numpy, pandas, h5py
